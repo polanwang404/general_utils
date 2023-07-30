@@ -1,3 +1,5 @@
+git clone https://ghproxy.com/+github网站地址
+
 ```bash
 conda config --show-sources
 ```
