@@ -5,7 +5,7 @@ conda config --show-sources
 ```
   
 ```bash
-vim .condarc
+vi .condarc
 ```
   
 ```bash
