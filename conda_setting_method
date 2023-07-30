@@ -1,5 +1,3 @@
-C:\ProgramData\Microsoft\Windows\Start Menu\Programs
-
 ```bash
 conda config --show-sources
 ```
