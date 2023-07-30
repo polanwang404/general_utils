@@ -29,3 +29,9 @@ git pull origin master
 # 在实际使用中，git fetch更安全一些
 # 因为在merge前，我们可以查看更新情况，然后再决定是否合并
 ```
+
+## git clone -b
+```bash
+git clone -b (分支项目名) http://myrepo.xxx.com/project/.git
+```
+此操作会将远端分支的 clone 下来，并命名为同名
