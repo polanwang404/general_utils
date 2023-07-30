@@ -34,4 +34,4 @@ git pull origin master
 ```bash
 git clone -b (分支项目名) http://myrepo.xxx.com/project/.git
 ```
-此操作会将远端分支的 clone 下来，并命名为同名
+此操作会将远端分支的 clone 下来，文件名还是项目的文件名，但是里面只有克隆下来的单个分支
